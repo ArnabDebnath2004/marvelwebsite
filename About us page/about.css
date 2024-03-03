@@ -1,0 +1,74 @@
+body{
+font-family:calibri;
+background-color:white;
+
+}
+
+.container{
+width:1170px;
+margin:0 auto;
+}
+
+p,div,h1,h2,h3,h4,h5,h6,ul,li,a{
+margin:0;
+padding:0;
+}
+
+.logo{
+color:white;
+width:30%;
+float:left;
+
+
+}
+
+
+
+.color-address{
+color:red;
+
+font-family:agency fb;
+}
+
+
+.header{
+width:100%;
+float:left;
+background-color:black;
+
+}
+
+.menu{
+width:70%;
+float:left;
+}
+
+.menu ul li{
+list-style-type:none;
+padding:0px 30px;
+float:left;
+margin-top:20px;
+}
+
+.menu ul li a{
+text-decoration:none;
+font-family:calibri;
+font-size:37px;
+font-weight:bold;
+color:white;
+}
+
+
+.menu ul li a:hover{
+
+color:red;
+
+
+}
+
+
+p{
+    font-weight: 900;
+    font-size: large;
+
+}
